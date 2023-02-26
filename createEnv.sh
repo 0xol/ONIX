@@ -1,2 +1,2 @@
-cd /mnt/c33/
+cd /mnt/c33
 rm * -rf
