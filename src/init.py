@@ -1,3 +1,3 @@
-import boot.kernel
+import boot.mainKern
 
-boot.kernel.kern_main()
+boot.mainKern.kern_main()
